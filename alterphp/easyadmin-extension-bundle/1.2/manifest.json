@@ -1,0 +1,5 @@
+{
+    "bundles": {
+        "AlterPHP\\EasyAdminExtensionBundle\\EasyAdminExtensionBundle": ["all"]
+    }
+}
